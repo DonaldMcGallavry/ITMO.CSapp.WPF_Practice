@@ -1,0 +1,9 @@
+﻿<Application x:Class="ITMO.CSapp.WPF_Practice.SecondLesson.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:ITMO.CSapp.WPF_Practice.SecondLesson"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
